@@ -27,7 +27,7 @@
     "react-redux": "^8.0.0",
     "react-router-dom": "^5.3.0",
     "react-scripts": "^5.0.0",
-    "recharts": "^2.1.9",
+    "recharts": "^2.1.14",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
     "secure-ls": "^1.2.6",
